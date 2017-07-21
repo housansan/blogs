@@ -1,0 +1,8 @@
+## 服务器部署
+
+### 安装 protobuf 2.5.0
+* 安装 C++ 版
+* 安装 python 版
+
+### 安装 xlrd
+* easy_install xlrd
