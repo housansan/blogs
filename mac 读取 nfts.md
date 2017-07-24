@@ -121,3 +121,5 @@ Password: # <----输入用户密码
 thatsitdeMacBook-Pro:Udisk thatsit$
 
 效果如下：桌面上会显示如下的盘符，点击即可进入Finder
+
+http://www.cnblogs.com/thatsit/p/6218117.html
